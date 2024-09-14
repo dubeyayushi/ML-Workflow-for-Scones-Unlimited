@@ -66,5 +66,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- This project was completed as part of the advanced Machine Learning Nanodegree Program by Udacity and AWS.
+This project was completed as part of the advanced Machine Learning Nanodegree Program by Udacity and AWS.
 
